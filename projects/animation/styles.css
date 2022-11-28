@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    width: 1300px;
+    height: 700px;
+    border: 1px solid #000;
+   
+    background: url(./sisybgImage.jpg); 
+   
+    background-size: 1300px 700px;
+}
+
+
