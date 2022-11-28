@@ -1,3 +1,3 @@
 # CISC3630-PROJECTS-OF-QUINCY-MILLIEN
-GitHub Page: https://qbcoding2.github.io/CISC3630-PROJECTS-OF-QUINCY-MILLIEN/
+GitHub Page: https://github.com/qbcoding2/CISC3630-PROJECTS-OF-QUINCY-MILLIEN.git
 
