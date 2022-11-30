@@ -53,14 +53,14 @@ recognition.onresult = function(event){
 
     } 
 
-    else if (message === "help"){
-        speak("Say the name of the object in Spanish to see the object on the screen.")
+    else if (message === "ayudáme"){
+        speak("Say the name of the object in Spanish to see the object on the screen.");
     } else {
         ctx.font = 'bold 28px sans-serif';
         ctx.fillText('Unknown', 70, 50);
 
         ctx.font = 'bold 12px sans-serif';
-        ctx.fillText("You said: " + event.results[0][0].transcript, 70, 110);
+        ctx.fillText('You said: ' + event.results[0][0].transcript, 70, 110);
     }
-    console.log("You said: ",event.results[0][0].transcript);
+    console.log('You said: ',event.results[0][0].transcript);
 }
